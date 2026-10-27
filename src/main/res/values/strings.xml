@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">多任务清除按钮修复</string>
+    <string name="app_desc">修复 ColorOS 使用第三方桌面时，从横屏应用返回后多任务清除按钮错位的问题。作用域：系统桌面</string>
+</resources>

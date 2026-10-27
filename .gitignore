@@ -1,0 +1,6 @@
+build/
+libs/
+legacy/
+*.keystore
+*.jks
+*.idsig
